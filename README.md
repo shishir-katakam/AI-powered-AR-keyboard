@@ -1,6 +1,6 @@
-AI-Powered VR Keyboard
+AI-Powered AR Keyboard
 
-An AI-based virtual keyboard designed for AR/VR environments using Kivy and MediaPipe. This app lets you type using hand gestures and includes real-time grammar/spelling correction using a transformer-based language model.
+An AI-based virtual keyboard designed for AR/ environments using Kivy and MediaPipe. This app lets you type using hand gestures and includes real-time grammar/spelling correction using a transformer-based language model.
 
 
 
