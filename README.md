@@ -10,7 +10,7 @@ Features
 -  AI-powered grammar and spelling correction
 -  Built with Python and Kivy for cross-platform use
 -  Copy-to-clipboard support
--  Designed for AR/VR experiences on mobile and desktop
+-  Designed for AR experiences on mobile and desktop
 
 
 
